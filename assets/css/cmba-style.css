@@ -1,0 +1,15 @@
+ .wrap-custom {
+   
+  padding: 2rem;
+  
+}
+
+ #cmfu-delete-meta,#cmfu-update-meta ,#update-post-ids,#update-post-meta-keys,#cmfu-add-meta {
+
+display:none;
+
+}
+
+.cmfu-input-box{
+	width: 600px;
+}
